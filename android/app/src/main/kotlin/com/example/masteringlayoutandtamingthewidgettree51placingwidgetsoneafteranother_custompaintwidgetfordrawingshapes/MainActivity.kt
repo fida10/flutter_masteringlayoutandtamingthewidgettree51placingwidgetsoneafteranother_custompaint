@@ -1,0 +1,6 @@
+package com.example.masteringlayoutandtamingthewidgettree51placingwidgetsoneafteranother_custompaintwidgetfordrawingshapes
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
